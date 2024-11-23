@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![WhatsApp Image 2024-11-23 at 11 25 39_62cec369](https://github.com/user-attachments/assets/d6815894-0497-4553-8c18-1572c6895d7f)
+![WhatsApp Image 2024-11-23 at 11 35 19_8f801bf5](https://github.com/user-attachments/assets/157608d9-4fd5-4a7a-acbe-732371139fdb)
 
 
 ### Name:KARTHIKEYAN M
