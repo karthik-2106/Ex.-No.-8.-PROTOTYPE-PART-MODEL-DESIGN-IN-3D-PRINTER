@@ -44,31 +44,9 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
-![image](https://github.com/Raji1009/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/89059861/bf8de7aa-34a1-42d9-97b2-c9e1e5770534)
+![image](https://github.com/user-attachments/assets/4355941c-c791-44fe-98ce-67e5ae3b602b)
 
 
 ### Name:KARTHIKEYAN M
